@@ -1,0 +1,2 @@
+# LZPicture
+store my pictures
